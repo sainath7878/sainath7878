@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Redux, TypeScript, Testing**
 
-- 🤝 I’m looking to collbaration with **projects around HTML, CSS, JavaScript, React and Redux**
+- 🤝 I’m looking to collaboration with **projects around HTML, CSS, JavaScript, React and Redux**
 
 - 👨‍💻 All of my projects are available at [https://peerlist.io/sainath](https://peerlist.io/sainath)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sainathsvm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s_Y5EeD6dEOChOy0bPMNGwo--hpsI8Cs/view?usp=sharing](https://drive.google.com/file/d/1s_Y5EeD6dEOChOy0bPMNGwo--hpsI8Cs/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s_Y5EeD6dEOChOy0bPMNGwo--hpsI8Cs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
