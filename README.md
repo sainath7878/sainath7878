@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sainathsvm@gmail.com**
 
-- 📄 Know about my experiences- [Resume](https://drive.google.com/file/d/1s_Y5EeD6dEOChOy0bPMNGwo--hpsI8Cs/view?usp=sharing)
+- 📄 Know about my experiences- [Resume](https://drive.google.com/file/d/1QJ3v8xfZNMFbuAo5On3hXrjehTX1JO7h/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainath7878&show_icons=true&locale=en" alt="sainath7878" /></p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sainath7878&show_icons=true&locale=en&layout=compact" alt="sainath7878" /></p></br>
-
-
